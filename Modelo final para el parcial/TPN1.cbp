@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="TPN1" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/TPN1" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/TPN1" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="fechas.cpp" />
+		<Unit filename="fechas.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="menus.cpp" />
+		<Unit filename="menus.h" />
+		<Unit filename="modeloParcial.cpp" />
+		<Unit filename="modeloParcial.h" />
+		<Unit filename="rlutil.h" />
+		<Unit filename="rutinas.cpp" />
+		<Unit filename="rutinas.h" />
+		<Unit filename="ui.cpp" />
+		<Unit filename="ui.h" />
+		<Unit filename="usuarios.cpp" />
+		<Unit filename="usuarios.h" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

@@ -1,0 +1,796 @@
+# depslib dependency file v1.0
+1600110814 source:d:\reuge\documents\utn\2do cuatri\lab2\lab isidoro\laboratory\elizabeth\tpn1\fechas.cpp
+	<iostream>
+	<cstdio>
+	<stdlib.h>
+	<ctime>
+	<string.h>
+	<cctype>
+	<algorithm>
+	"rutinas.h"
+	"funcionesTP.h"
+	"menus.h"
+	"fechas.h"
+	"ui.h"
+	"rlutil.h"
+
+1600223385 d:\reuge\documents\utn\2do cuatri\lab2\lab isidoro\laboratory\elizabeth\tpn1\rutinas.h
+	"fechas.h"
+	"funcionesTP.h"
+
+1600110814 d:\reuge\documents\utn\2do cuatri\lab2\lab isidoro\laboratory\elizabeth\tpn1\fechas.h
+
+1600196747 d:\reuge\documents\utn\2do cuatri\lab2\lab isidoro\laboratory\elizabeth\tpn1\funcionestp.h
+	"fechas.h"
+
+1600110814 d:\reuge\documents\utn\2do cuatri\lab2\lab isidoro\laboratory\elizabeth\tpn1\menus.h
+
+1600110814 d:\reuge\documents\utn\2do cuatri\lab2\lab isidoro\laboratory\elizabeth\tpn1\ui.h
+
+1600110814 d:\reuge\documents\utn\2do cuatri\lab2\lab isidoro\laboratory\elizabeth\tpn1\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1600223518 source:d:\reuge\documents\utn\2do cuatri\lab2\lab isidoro\laboratory\elizabeth\tpn1\funcionestp.cpp
+	<iostream>
+	<cstdio>
+	<stdlib.h>
+	<ctime>
+	<string.h>
+	<cstring>
+	<cctype>
+	<algorithm>
+	"rutinas.h"
+	"funcionesTP.h"
+	"menus.h"
+	"fechas.h"
+	"ui.h"
+	"rlutil.h"
+
+1600196747 source:d:\reuge\documents\utn\2do cuatri\lab2\lab isidoro\laboratory\elizabeth\tpn1\main.cpp
+	<iostream>
+	<cstdio>
+	<stdlib.h>
+	<ctime>
+	<string.h>
+	<cstring>
+	<cctype>
+	<algorithm>
+	"rutinas.h"
+	"funcionesTP.h"
+	"menus.h"
+	"fechas.h"
+	"ui.h"
+	"rlutil.h"
+
+1600223385 source:d:\reuge\documents\utn\2do cuatri\lab2\lab isidoro\laboratory\elizabeth\tpn1\menus.cpp
+	<iostream>
+	<cstdio>
+	<stdlib.h>
+	<ctime>
+	<string.h>
+	<cstring>
+	<cctype>
+	<algorithm>
+	"rutinas.h"
+	"funcionesTP.h"
+	"menus.h"
+	"fechas.h"
+	"ui.h"
+	"rlutil.h"
+
+1600223385 source:d:\reuge\documents\utn\2do cuatri\lab2\lab isidoro\laboratory\elizabeth\tpn1\rutinas.cpp
+	<iostream>
+	<cstdio>
+	<stdlib.h>
+	<ctime>
+	<string.h>
+	<cstring>
+	<cctype>
+	<algorithm>
+	"rutinas.h"
+	"funcionesTP.h"
+	"menus.h"
+	"fechas.h"
+	"ui.h"
+	"rlutil.h"
+
+1600110814 source:d:\reuge\documents\utn\2do cuatri\lab2\lab isidoro\laboratory\elizabeth\tpn1\ui.cpp
+	<iostream>
+	<cstring>
+	"ui.h"
+	"rlutil.h"
+
+1600110962 source:c:\users\isi97\desktop\isidoro\facultad\2do cuatrimestre 2020\laboratorio ii\laboratory\isidoro\tpn1\fechas.cpp
+	<iostream>
+	<cstdio>
+	<stdlib.h>
+	<ctime>
+	<string.h>
+	<cctype>
+	<algorithm>
+	"rutinas.h"
+	"funcionesTP.h"
+	"menus.h"
+	"fechas.h"
+	"ui.h"
+	"rlutil.h"
+
+1600320837 c:\users\isi97\desktop\isidoro\facultad\2do cuatrimestre 2020\laboratorio ii\laboratory\isidoro\tpn1\rutinas.h
+	"fechas.h"
+	"funcionesTP.h"
+
+1600110962 c:\users\isi97\desktop\isidoro\facultad\2do cuatrimestre 2020\laboratorio ii\laboratory\isidoro\tpn1\fechas.h
+
+1600309858 c:\users\isi97\desktop\isidoro\facultad\2do cuatrimestre 2020\laboratorio ii\laboratory\isidoro\tpn1\funcionestp.h
+	"fechas.h"
+
+1600110962 c:\users\isi97\desktop\isidoro\facultad\2do cuatrimestre 2020\laboratorio ii\laboratory\isidoro\tpn1\menus.h
+
+1600110962 c:\users\isi97\desktop\isidoro\facultad\2do cuatrimestre 2020\laboratorio ii\laboratory\isidoro\tpn1\ui.h
+
+1600110962 c:\users\isi97\desktop\isidoro\facultad\2do cuatrimestre 2020\laboratorio ii\laboratory\isidoro\tpn1\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1600309858 source:c:\users\isi97\desktop\isidoro\facultad\2do cuatrimestre 2020\laboratorio ii\laboratory\isidoro\tpn1\funcionestp.cpp
+	<iostream>
+	<cstdio>
+	<stdlib.h>
+	<ctime>
+	<string.h>
+	<cstring>
+	<cctype>
+	<algorithm>
+	"rutinas.h"
+	"funcionesTP.h"
+	"menus.h"
+	"fechas.h"
+	"ui.h"
+	"rlutil.h"
+
+1600309858 source:c:\users\isi97\desktop\isidoro\facultad\2do cuatrimestre 2020\laboratorio ii\laboratory\isidoro\tpn1\main.cpp
+	<iostream>
+	<cstdio>
+	<stdlib.h>
+	<ctime>
+	<string.h>
+	<cstring>
+	<cctype>
+	<algorithm>
+	"rutinas.h"
+	"funcionesTP.h"
+	"menus.h"
+	"fechas.h"
+	"ui.h"
+	"rlutil.h"
+
+1600320981 source:c:\users\isi97\desktop\isidoro\facultad\2do cuatrimestre 2020\laboratorio ii\laboratory\isidoro\tpn1\menus.cpp
+	<iostream>
+	<cstdio>
+	<stdlib.h>
+	<ctime>
+	<string.h>
+	<cstring>
+	<cctype>
+	<algorithm>
+	"rutinas.h"
+	"funcionesTP.h"
+	"menus.h"
+	"fechas.h"
+	"ui.h"
+	"rlutil.h"
+
+1600110962 source:c:\users\isi97\desktop\isidoro\facultad\2do cuatrimestre 2020\laboratorio ii\laboratory\isidoro\tpn1\ui.cpp
+	<iostream>
+	<cstring>
+	"ui.h"
+	"rlutil.h"
+
+1600320936 source:c:\users\isi97\desktop\isidoro\facultad\2do cuatrimestre 2020\laboratorio ii\laboratory\isidoro\tpn1\rutinas.cpp
+	<iostream>
+	<cstdio>
+	<stdlib.h>
+	<ctime>
+	<string.h>
+	<cstring>
+	<cctype>
+	<algorithm>
+	"rutinas.h"
+	"funcionesTP.h"
+	"menus.h"
+	"fechas.h"
+	"ui.h"
+	"rlutil.h"
+
+1600403073 source:c:\users\isi97\onedrive\escritorio\isidoro\facultad\2do cuatrimestre 2020\laboratorio ii\laboratory\isidoro\tpn1\fechas.cpp
+	<iostream>
+	<cstdio>
+	<stdlib.h>
+	<ctime>
+	<string.h>
+	<cctype>
+	<algorithm>
+	"rutinas.h"
+	"funcionesTP.h"
+	"menus.h"
+	"fechas.h"
+	"ui.h"
+	"rlutil.h"
+
+1600398274 c:\users\isi97\onedrive\escritorio\isidoro\facultad\2do cuatrimestre 2020\laboratorio ii\laboratory\isidoro\tpn1\rutinas.h
+	"fechas.h"
+	"funcionesTP.h"
+
+1600110962 c:\users\isi97\onedrive\escritorio\isidoro\facultad\2do cuatrimestre 2020\laboratorio ii\laboratory\isidoro\tpn1\fechas.h
+
+1600309858 c:\users\isi97\onedrive\escritorio\isidoro\facultad\2do cuatrimestre 2020\laboratorio ii\laboratory\isidoro\tpn1\funcionestp.h
+	"fechas.h"
+
+1600110962 c:\users\isi97\onedrive\escritorio\isidoro\facultad\2do cuatrimestre 2020\laboratorio ii\laboratory\isidoro\tpn1\menus.h
+
+1600110962 c:\users\isi97\onedrive\escritorio\isidoro\facultad\2do cuatrimestre 2020\laboratorio ii\laboratory\isidoro\tpn1\ui.h
+
+1600110962 c:\users\isi97\onedrive\escritorio\isidoro\facultad\2do cuatrimestre 2020\laboratorio ii\laboratory\isidoro\tpn1\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1600374987 source:c:\users\isi97\onedrive\escritorio\isidoro\facultad\2do cuatrimestre 2020\laboratorio ii\laboratory\isidoro\tpn1\funcionestp.cpp
+	<iostream>
+	<cstdio>
+	<stdlib.h>
+	<ctime>
+	<string.h>
+	<cstring>
+	<cctype>
+	<algorithm>
+	"rutinas.h"
+	"funcionesTP.h"
+	"menus.h"
+	"fechas.h"
+	"ui.h"
+	"rlutil.h"
+
+1600309858 source:c:\users\isi97\onedrive\escritorio\isidoro\facultad\2do cuatrimestre 2020\laboratorio ii\laboratory\isidoro\tpn1\main.cpp
+	<iostream>
+	<cstdio>
+	<stdlib.h>
+	<ctime>
+	<string.h>
+	<cstring>
+	<cctype>
+	<algorithm>
+	"rutinas.h"
+	"funcionesTP.h"
+	"menus.h"
+	"fechas.h"
+	"ui.h"
+	"rlutil.h"
+
+1600110962 source:c:\users\isi97\onedrive\escritorio\isidoro\facultad\2do cuatrimestre 2020\laboratorio ii\laboratory\isidoro\tpn1\ui.cpp
+	<iostream>
+	<cstring>
+	"ui.h"
+	"rlutil.h"
+
+1600402767 source:c:\users\isi97\onedrive\escritorio\isidoro\facultad\2do cuatrimestre 2020\laboratorio ii\laboratory\isidoro\tpn1\menus.cpp
+	<iostream>
+	<cstdio>
+	<stdlib.h>
+	<ctime>
+	<string.h>
+	<cstring>
+	<cctype>
+	<algorithm>
+	"rutinas.h"
+	"funcionesTP.h"
+	"menus.h"
+	"fechas.h"
+	"ui.h"
+	"rlutil.h"
+
+1600403200 source:c:\users\isi97\onedrive\escritorio\isidoro\facultad\2do cuatrimestre 2020\laboratorio ii\laboratory\isidoro\tpn1\rutinas.cpp
+	<iostream>
+	<cstdio>
+	<stdlib.h>
+	<ctime>
+	<string.h>
+	<cstring>
+	<cctype>
+	<algorithm>
+	"rutinas.h"
+	"funcionesTP.h"
+	"menus.h"
+	"fechas.h"
+	"ui.h"
+	"rlutil.h"
+
+1600341535 source:d:\reuge\documents\utn\2do cuatri\lab2\lab isidoro\laboratory\isidoro\tpn1\main.cpp
+	<iostream>
+	<cstdio>
+	<stdlib.h>
+	<ctime>
+	<string.h>
+	<cstring>
+	<cctype>
+	<algorithm>
+	"rutinas.h"
+	"funcionesTP.h"
+	"menus.h"
+	"fechas.h"
+	"ui.h"
+	"rlutil.h"
+
+1600465717 d:\reuge\documents\utn\2do cuatri\lab2\lab isidoro\laboratory\isidoro\tpn1\rutinas.h
+	"fechas.h"
+	"funcionesTP.h"
+
+1600465717 d:\reuge\documents\utn\2do cuatri\lab2\lab isidoro\laboratory\isidoro\tpn1\fechas.h
+
+1600341535 d:\reuge\documents\utn\2do cuatri\lab2\lab isidoro\laboratory\isidoro\tpn1\funcionestp.h
+	"fechas.h"
+
+1600341535 d:\reuge\documents\utn\2do cuatri\lab2\lab isidoro\laboratory\isidoro\tpn1\menus.h
+
+1600341535 d:\reuge\documents\utn\2do cuatri\lab2\lab isidoro\laboratory\isidoro\tpn1\ui.h
+
+1600341535 d:\reuge\documents\utn\2do cuatri\lab2\lab isidoro\laboratory\isidoro\tpn1\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1600341535 source:d:\reuge\documents\utn\2do cuatri\lab2\lab isidoro\laboratory\isidoro\tpn1\ui.cpp
+	<iostream>
+	<cstring>
+	"ui.h"
+	"rlutil.h"
+
+1600465717 source:d:\reuge\documents\utn\2do cuatri\lab2\lab isidoro\laboratory\isidoro\tpn1\fechas.cpp
+	<iostream>
+	<cstdio>
+	<stdlib.h>
+	<ctime>
+	<string.h>
+	<cctype>
+	<algorithm>
+	"rutinas.h"
+	"funcionesTP.h"
+	"menus.h"
+	"fechas.h"
+	"ui.h"
+	"rlutil.h"
+
+1600465717 source:d:\reuge\documents\utn\2do cuatri\lab2\lab isidoro\laboratory\isidoro\tpn1\funcionestp.cpp
+	<iostream>
+	<cstdio>
+	<stdlib.h>
+	<ctime>
+	<string.h>
+	<cstring>
+	<cctype>
+	<algorithm>
+	"rutinas.h"
+	"funcionesTP.h"
+	"menus.h"
+	"fechas.h"
+	"ui.h"
+	"rlutil.h"
+
+1600465717 source:d:\reuge\documents\utn\2do cuatri\lab2\lab isidoro\laboratory\isidoro\tpn1\menus.cpp
+	<iostream>
+	<cstdio>
+	<stdlib.h>
+	<ctime>
+	<string.h>
+	<cstring>
+	<cctype>
+	<algorithm>
+	"rutinas.h"
+	"funcionesTP.h"
+	"menus.h"
+	"fechas.h"
+	"ui.h"
+	"rlutil.h"
+
+1600465717 source:d:\reuge\documents\utn\2do cuatri\lab2\lab isidoro\laboratory\isidoro\tpn1\rutinas.cpp
+	<iostream>
+	<cstdio>
+	<stdlib.h>
+	<ctime>
+	<string.h>
+	<cstring>
+	<cctype>
+	<algorithm>
+	"rutinas.h"
+	"funcionesTP.h"
+	"menus.h"
+	"fechas.h"
+	"ui.h"
+	"rlutil.h"
+
+1600619057 source:d:\reuge\documents\utn\2do cuatri\lab2\pre parcial\tp lab2\fechas.cpp
+	<iostream>
+	<cstdio>
+	<stdlib.h>
+	<ctime>
+	<string.h>
+	<cctype>
+	<algorithm>
+	"rutinas.h"
+	"usuarios.h"
+	"menus.h"
+	"fechas.h"
+	"ui.h"
+	"rlutil.h"
+
+1600619052 d:\reuge\documents\utn\2do cuatri\lab2\pre parcial\tp lab2\rutinas.h
+	"fechas.h"
+	"usuarios.h"
+
+1600465717 d:\reuge\documents\utn\2do cuatri\lab2\pre parcial\tp lab2\fechas.h
+
+1600341535 d:\reuge\documents\utn\2do cuatri\lab2\pre parcial\tp lab2\funcionestp.h
+	"fechas.h"
+
+1600341535 d:\reuge\documents\utn\2do cuatri\lab2\pre parcial\tp lab2\menus.h
+
+1600341535 d:\reuge\documents\utn\2do cuatri\lab2\pre parcial\tp lab2\ui.h
+
+1600341535 d:\reuge\documents\utn\2do cuatri\lab2\pre parcial\tp lab2\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1600614980 source:d:\reuge\documents\utn\2do cuatri\lab2\pre parcial\tp lab2\funcionestp.cpp
+	<iostream>
+	<cstdio>
+	<stdlib.h>
+	<ctime>
+	<string.h>
+	<cstring>
+	<cctype>
+	<algorithm>
+	"rutinas.h"
+	"funcionesTP.h"
+	"menus.h"
+	"fechas.h"
+	"ui.h"
+	"rlutil.h"
+
+1600619068 source:d:\reuge\documents\utn\2do cuatri\lab2\pre parcial\tp lab2\main.cpp
+	<iostream>
+	<cstdio>
+	<stdlib.h>
+	<ctime>
+	<string.h>
+	<cstring>
+	<cctype>
+	<algorithm>
+	"rutinas.h"
+	"usuarios.h"
+	"menus.h"
+	"fechas.h"
+	"ui.h"
+	"rlutil.h"
+
+1600619063 source:d:\reuge\documents\utn\2do cuatri\lab2\pre parcial\tp lab2\menus.cpp
+	<iostream>
+	<cstdio>
+	<stdlib.h>
+	<ctime>
+	<string.h>
+	<cstring>
+	<cctype>
+	<algorithm>
+	"rutinas.h"
+	"usuarios.h"
+	"menus.h"
+	"fechas.h"
+	"ui.h"
+	"rlutil.h"
+
+1600619075 source:d:\reuge\documents\utn\2do cuatri\lab2\pre parcial\tp lab2\rutinas.cpp
+	<iostream>
+	<cstdio>
+	<stdlib.h>
+	<ctime>
+	<string.h>
+	<cstring>
+	<cctype>
+	<algorithm>
+	"rutinas.h"
+	"usuarios.h"
+	"menus.h"
+	"fechas.h"
+	"ui.h"
+	"rlutil.h"
+
+1600341535 source:d:\reuge\documents\utn\2do cuatri\lab2\pre parcial\tp lab2\ui.cpp
+	<iostream>
+	<cstring>
+	"ui.h"
+	"rlutil.h"
+
+1600341535 d:\reuge\documents\utn\2do cuatri\lab2\pre parcial\tp lab2\usuarios.h
+	"fechas.h"
+
+1600742332 source:c:\users\isi97\onedrive\escritorio\isidoro\facultad\2do cuatrimestre 2020\laboratorio ii\laboratory\eugenio\tp lab2\fechas.cpp
+	<iostream>
+	<cstdio>
+	<stdlib.h>
+	<ctime>
+	<string.h>
+	<cctype>
+	<algorithm>
+	"rutinas.h"
+	"usuarios.h"
+	"menus.h"
+	"fechas.h"
+	"ui.h"
+	"rlutil.h"
+
+1600742332 c:\users\isi97\onedrive\escritorio\isidoro\facultad\2do cuatrimestre 2020\laboratorio ii\laboratory\eugenio\tp lab2\rutinas.h
+	"fechas.h"
+	"usuarios.h"
+
+1600742332 c:\users\isi97\onedrive\escritorio\isidoro\facultad\2do cuatrimestre 2020\laboratorio ii\laboratory\eugenio\tp lab2\fechas.h
+
+1600742332 c:\users\isi97\onedrive\escritorio\isidoro\facultad\2do cuatrimestre 2020\laboratorio ii\laboratory\eugenio\tp lab2\usuarios.h
+	"fechas.h"
+
+1600742332 c:\users\isi97\onedrive\escritorio\isidoro\facultad\2do cuatrimestre 2020\laboratorio ii\laboratory\eugenio\tp lab2\menus.h
+
+1600742332 c:\users\isi97\onedrive\escritorio\isidoro\facultad\2do cuatrimestre 2020\laboratorio ii\laboratory\eugenio\tp lab2\ui.h
+
+1600742332 c:\users\isi97\onedrive\escritorio\isidoro\facultad\2do cuatrimestre 2020\laboratorio ii\laboratory\eugenio\tp lab2\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1600742332 source:c:\users\isi97\onedrive\escritorio\isidoro\facultad\2do cuatrimestre 2020\laboratorio ii\laboratory\eugenio\tp lab2\main.cpp
+	<iostream>
+	<cstdio>
+	<stdlib.h>
+	<ctime>
+	<string.h>
+	<cstring>
+	<cctype>
+	<algorithm>
+	"rutinas.h"
+	"usuarios.h"
+	"menus.h"
+	"fechas.h"
+	"ui.h"
+	"rlutil.h"
+
+1600742332 source:c:\users\isi97\onedrive\escritorio\isidoro\facultad\2do cuatrimestre 2020\laboratorio ii\laboratory\eugenio\tp lab2\menus.cpp
+	<iostream>
+	<cstdio>
+	<stdlib.h>
+	<ctime>
+	<string.h>
+	<cstring>
+	<cctype>
+	<algorithm>
+	"rutinas.h"
+	"usuarios.h"
+	"menus.h"
+	"fechas.h"
+	"ui.h"
+	"rlutil.h"
+
+1600742332 source:c:\users\isi97\onedrive\escritorio\isidoro\facultad\2do cuatrimestre 2020\laboratorio ii\laboratory\eugenio\tp lab2\ui.cpp
+	<iostream>
+	<cstring>
+	"ui.h"
+	"rlutil.h"
+
+1600742332 source:c:\users\isi97\onedrive\escritorio\isidoro\facultad\2do cuatrimestre 2020\laboratorio ii\laboratory\eugenio\tp lab2\usuarios.cpp
+	<iostream>
+	<cstdio>
+	<stdlib.h>
+	<ctime>
+	<string.h>
+	<cstring>
+	<cctype>
+	<algorithm>
+	"rutinas.h"
+	"usuarios.h"
+	"menus.h"
+	"fechas.h"
+	"ui.h"
+	"rlutil.h"
+
+1600744418 source:c:\users\isi97\onedrive\escritorio\isidoro\facultad\2do cuatrimestre 2020\laboratorio ii\laboratory\isidoro\modelo final para el parcial\tp lab2\fechas.cpp
+	<iostream>
+	<cstdio>
+	<stdlib.h>
+	<ctime>
+	<string.h>
+	<cctype>
+	<algorithm>
+	"rutinas.h"
+	"usuarios.h"
+	"menus.h"
+	"fechas.h"
+	"ui.h"
+	"rlutil.h"
+	"modeloParcial.h"
+
+1600744853 c:\users\isi97\onedrive\escritorio\isidoro\facultad\2do cuatrimestre 2020\laboratorio ii\laboratory\isidoro\modelo final para el parcial\tp lab2\rutinas.h
+	"fechas.h"
+	"usuarios.h"
+
+1600742332 c:\users\isi97\onedrive\escritorio\isidoro\facultad\2do cuatrimestre 2020\laboratorio ii\laboratory\isidoro\modelo final para el parcial\tp lab2\fechas.h
+
+1600742332 c:\users\isi97\onedrive\escritorio\isidoro\facultad\2do cuatrimestre 2020\laboratorio ii\laboratory\isidoro\modelo final para el parcial\tp lab2\usuarios.h
+	"fechas.h"
+
+1600744684 c:\users\isi97\onedrive\escritorio\isidoro\facultad\2do cuatrimestre 2020\laboratorio ii\laboratory\isidoro\modelo final para el parcial\tp lab2\menus.h
+
+1600742332 c:\users\isi97\onedrive\escritorio\isidoro\facultad\2do cuatrimestre 2020\laboratorio ii\laboratory\isidoro\modelo final para el parcial\tp lab2\ui.h
+
+1600742332 c:\users\isi97\onedrive\escritorio\isidoro\facultad\2do cuatrimestre 2020\laboratorio ii\laboratory\isidoro\modelo final para el parcial\tp lab2\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1600744384 source:c:\users\isi97\onedrive\escritorio\isidoro\facultad\2do cuatrimestre 2020\laboratorio ii\laboratory\isidoro\modelo final para el parcial\tp lab2\main.cpp
+	<iostream>
+	<cstdio>
+	<stdlib.h>
+	<ctime>
+	<string.h>
+	<cstring>
+	<cctype>
+	<algorithm>
+	"rutinas.h"
+	"usuarios.h"
+	"menus.h"
+	"fechas.h"
+	"ui.h"
+	"rlutil.h"
+	"modeloParcial.h"
+
+1600748064 source:c:\users\isi97\onedrive\escritorio\isidoro\facultad\2do cuatrimestre 2020\laboratorio ii\laboratory\isidoro\modelo final para el parcial\tp lab2\menus.cpp
+	<iostream>
+	<cstdio>
+	<stdlib.h>
+	<ctime>
+	<string.h>
+	<cstring>
+	<cctype>
+	<algorithm>
+	"rutinas.h"
+	"usuarios.h"
+	"menus.h"
+	"fechas.h"
+	"ui.h"
+	"rlutil.h"
+	"modeloParcial.h"
+
+1600744842 source:c:\users\isi97\onedrive\escritorio\isidoro\facultad\2do cuatrimestre 2020\laboratorio ii\laboratory\isidoro\modelo final para el parcial\tp lab2\rutinas.cpp
+	<iostream>
+	<cstdio>
+	<stdlib.h>
+	<ctime>
+	<string.h>
+	<cstring>
+	<cctype>
+	<algorithm>
+	"rutinas.h"
+	"usuarios.h"
+	"menus.h"
+	"fechas.h"
+	"ui.h"
+	"rlutil.h"
+	"modeloParcial.h"
+
+1600742332 source:c:\users\isi97\onedrive\escritorio\isidoro\facultad\2do cuatrimestre 2020\laboratorio ii\laboratory\isidoro\modelo final para el parcial\tp lab2\ui.cpp
+	<iostream>
+	<cstring>
+	"ui.h"
+	"rlutil.h"
+
+1600744418 source:c:\users\isi97\onedrive\escritorio\isidoro\facultad\2do cuatrimestre 2020\laboratorio ii\laboratory\isidoro\modelo final para el parcial\tp lab2\usuarios.cpp
+	<iostream>
+	<cstdio>
+	<stdlib.h>
+	<ctime>
+	<string.h>
+	<cstring>
+	<cctype>
+	<algorithm>
+	"rutinas.h"
+	"usuarios.h"
+	"menus.h"
+	"fechas.h"
+	"ui.h"
+	"rlutil.h"
+	"modeloParcial.h"
+
+1600747843 c:\users\isi97\onedrive\escritorio\isidoro\facultad\2do cuatrimestre 2020\laboratorio ii\laboratory\isidoro\modelo final para el parcial\tp lab2\modeloparcial.h
+
+1600748639 source:c:\users\isi97\onedrive\escritorio\isidoro\facultad\2do cuatrimestre 2020\laboratorio ii\laboratory\isidoro\modelo final para el parcial\tp lab2\modeloparcial.cpp
+	<iostream>
+	<cstdio>
+	<stdlib.h>
+	<ctime>
+	<string.h>
+	<cstring>
+	<cctype>
+	<algorithm>
+	"rutinas.h"
+	"usuarios.h"
+	"menus.h"
+	"fechas.h"
+	"ui.h"
+	"rlutil.h"
+	"modeloParcial.h"
+
