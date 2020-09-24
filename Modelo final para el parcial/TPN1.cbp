@@ -32,6 +32,8 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
+		<Unit filename="configuracion.cpp" />
+		<Unit filename="configuracion.h" />
 		<Unit filename="fechas.cpp" />
 		<Unit filename="fechas.h" />
 		<Unit filename="main.cpp" />

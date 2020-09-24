@@ -1,8 +1,9 @@
 #include <iostream>
-using namespace std;
 #include <cstring>
 #include "ui.h"
 #include "rlutil.h"
+
+using namespace std;
 using namespace rlutil;
 
 void setColors(int foreColor, int backColor){

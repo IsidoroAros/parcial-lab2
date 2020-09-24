@@ -5,6 +5,7 @@ void menu();
 void menuUsuarios();
 void menuRutinas();
 void menuPreParcial();
+void menuConfig();
 
 
 #endif // MENUS_H_INCLUDED

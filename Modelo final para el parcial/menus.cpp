@@ -13,6 +13,7 @@
 #include "ui.h"
 #include "rlutil.h"
 #include "modeloParcial.h"
+#include "configuracion.h"
 
 using namespace rlutil;
 using namespace std;
@@ -45,6 +46,8 @@ void menu(){
         case 2:
             menuRutinas();
             break;
+        case 4:
+            menuConfig();
         case 5:
             menuPreParcial();
             break;
@@ -169,6 +172,40 @@ int opcion;
         case 0:
             return;
             break;
+        default:
+            break;
+        }
+    } while (opcion != 0);
+}
+
+void menuConfig(){
+int opcion;
+        do {
+        cls();
+        title("MENU CONFIGURACION", 0, 42);
+        gotoxy(1, 3);
+        cout << "--------------------------------" << endl;
+        cout << "1) REALIZAR COPIA DE SEGURIDAD" << endl;
+        cout << "2) RESTAURAR COPIA DE SEGURIDAD" << endl;
+        cout << "3) CREDITOS" << endl;
+        cout << "--------------------------------" << endl;
+        cout << "0) VOLVER AL MENU PRINCIPAL" << endl;
+        cout << "> ";
+        cin >> opcion;
+        system("cls");
+        switch (opcion){
+        case 1:
+            hacerCopia();
+            break;
+        case 2:
+            restaurarCopia();
+            break;
+        case 3:
+            creditos();
+            break;
+        case 0:
+            return;
+
         default:
             break;
         }

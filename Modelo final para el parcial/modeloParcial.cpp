@@ -13,6 +13,7 @@
 #include "ui.h"
 #include "rlutil.h"
 #include "modeloParcial.h"
+#include "configuracion.h"
 
 using namespace std;
 using namespace rlutil;
