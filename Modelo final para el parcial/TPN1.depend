@@ -839,7 +839,7 @@
 
 1600747843 c:\users\isi97\onedrive\escritorio\isidoro\facultad\2do cuatrimestre 2020\laboratorio ii\parcial-lab2\modelo final para el parcial\modeloparcial.h
 
-1600744384 source:c:\users\isi97\onedrive\escritorio\isidoro\facultad\2do cuatrimestre 2020\laboratorio ii\parcial-lab2\modelo final para el parcial\main.cpp
+1600925282 source:c:\users\isi97\onedrive\escritorio\isidoro\facultad\2do cuatrimestre 2020\laboratorio ii\parcial-lab2\modelo final para el parcial\main.cpp
 	<iostream>
 	<cstdio>
 	<stdlib.h>
@@ -855,8 +855,9 @@
 	"ui.h"
 	"rlutil.h"
 	"modeloParcial.h"
+	"configuracion.h"
 
-1600748064 source:c:\users\isi97\onedrive\escritorio\isidoro\facultad\2do cuatrimestre 2020\laboratorio ii\parcial-lab2\modelo final para el parcial\menus.cpp
+1600925275 source:c:\users\isi97\onedrive\escritorio\isidoro\facultad\2do cuatrimestre 2020\laboratorio ii\parcial-lab2\modelo final para el parcial\menus.cpp
 	<iostream>
 	<cstdio>
 	<stdlib.h>
@@ -872,8 +873,9 @@
 	"ui.h"
 	"rlutil.h"
 	"modeloParcial.h"
+	"configuracion.h"
 
-1600748639 source:c:\users\isi97\onedrive\escritorio\isidoro\facultad\2do cuatrimestre 2020\laboratorio ii\parcial-lab2\modelo final para el parcial\modeloparcial.cpp
+1600925290 source:c:\users\isi97\onedrive\escritorio\isidoro\facultad\2do cuatrimestre 2020\laboratorio ii\parcial-lab2\modelo final para el parcial\modeloparcial.cpp
 	<iostream>
 	<cstdio>
 	<stdlib.h>
@@ -889,8 +891,9 @@
 	"ui.h"
 	"rlutil.h"
 	"modeloParcial.h"
+	"configuracion.h"
 
-1600748722 source:c:\users\isi97\onedrive\escritorio\isidoro\facultad\2do cuatrimestre 2020\laboratorio ii\parcial-lab2\modelo final para el parcial\rutinas.cpp
+1600925270 source:c:\users\isi97\onedrive\escritorio\isidoro\facultad\2do cuatrimestre 2020\laboratorio ii\parcial-lab2\modelo final para el parcial\rutinas.cpp
 	<iostream>
 	<cstdio>
 	<stdlib.h>
@@ -906,8 +909,9 @@
 	"ui.h"
 	"rlutil.h"
 	"modeloParcial.h"
+	"configuracion.h"
 
-1600742332 source:c:\users\isi97\onedrive\escritorio\isidoro\facultad\2do cuatrimestre 2020\laboratorio ii\parcial-lab2\modelo final para el parcial\ui.cpp
+1600925322 source:c:\users\isi97\onedrive\escritorio\isidoro\facultad\2do cuatrimestre 2020\laboratorio ii\parcial-lab2\modelo final para el parcial\ui.cpp
 	<iostream>
 	<cstring>
 	"ui.h"
@@ -929,4 +933,21 @@
 	"ui.h"
 	"rlutil.h"
 	"modeloParcial.h"
+
+1600925261 source:c:\users\isi97\onedrive\escritorio\isidoro\facultad\2do cuatrimestre 2020\laboratorio ii\parcial-lab2\modelo final para el parcial\configuracion.cpp
+	<ctime>
+	<string.h>
+	<cstring>
+	<cctype>
+	<algorithm>
+	"rutinas.h"
+	"usuarios.h"
+	"menus.h"
+	"fechas.h"
+	"ui.h"
+	"rlutil.h"
+	"modeloParcial.h"
+	"configuracion.h"
+
+1600925079 c:\users\isi97\onedrive\escritorio\isidoro\facultad\2do cuatrimestre 2020\laboratorio ii\parcial-lab2\modelo final para el parcial\configuracion.h
 
