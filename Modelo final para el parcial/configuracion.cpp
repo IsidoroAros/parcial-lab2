@@ -11,7 +11,7 @@
 #include "rlutil.h"
 #include "modeloParcial.h"
 #include "configuracion.h"
-
+#include "parcialLabII.h"
 
 
 
@@ -21,13 +21,15 @@ using namespace std;
 
 void creditos(){
 
-    title("LISTAR PROGRAMADORES",BLACK,CYAN);
+    title("CREDITOS",BLACK,CYAN);
 
            cout<<endl<<endl;
+            cout<<"\n\t\t\tTRABAJO REALIZADO POR:"<<endl;
             cout<<"\n\t\t\tELIZABETH CAROLINA AYALA"<<endl;
             cout<<"\n\t\t\tISIDORO AROSTEGUI"<<endl;
             cout<<"\n\t\t\tDAVID QUINTEROS"<<endl;
             cout<<"\n\t\t\tEUGENIO AREVALO"<<endl;
+            cout<<"\n\t\t\tPARCIAL REALIZADO POR: ISIDORO AROSTEGUI"<<endl;
             cout<<endl<<endl<<endl<<endl<<endl<<endl;
     system("PAUSE");
 

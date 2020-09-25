@@ -14,6 +14,7 @@
 #include "rlutil.h"
 #include "modeloParcial.h"
 #include "configuracion.h"
+#include "parcialLabII.h"
 
 using namespace rlutil;
 using namespace std;

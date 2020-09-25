@@ -14,6 +14,7 @@
 #include "rlutil.h"
 #include "modeloParcial.h"
 #include "configuracion.h"
+#include "parcialLabII.h"
 
 using namespace rlutil;
 using namespace std;
@@ -51,6 +52,8 @@ void menu(){
         case 5:
             menuPreParcial();
             break;
+        case 6:
+            menuParcial();
         case 0:
             return;
         default:
@@ -212,4 +215,36 @@ int opcion;
     } while (opcion != 0);
 }
 
+
+void menuParcial(){
+
+int opcion;
+        do {
+        cls();
+        title("PARCIAL LABORATORIO II", 0, 45);
+        gotoxy(1, 3); /// El puntero arranca a partir de esta posicion
+        cout << "--------------------------------" << endl;
+        cout << "1) Entrenamiento con mas calorias y fecha" << endl;
+        cout << "2) Cantidad de entrenamientos por perfil de actividad" << endl;
+        cout << "--------------------------------" << endl;
+        cout << "0) VOLVER AL MENU PRINCIPAL" << endl;
+
+        cout << "> ";
+        cin >> opcion;
+        system("cls");
+        switch (opcion){
+        case 1:
+            entrenamientoMasCalorias();
+            break;
+        case 2:
+            actividadPorPerfil();
+            break;
+        case 0:
+            return;
+            break;
+        default:
+            break;
+        }
+    } while (opcion != 0);
+}
 

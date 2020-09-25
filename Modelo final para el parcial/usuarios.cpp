@@ -13,6 +13,7 @@
 #include "ui.h"
 #include "rlutil.h"
 #include "modeloParcial.h"
+#include "parcialLabII.h"
 
 using namespace rlutil;
 using namespace std;

@@ -41,6 +41,8 @@
 		<Unit filename="menus.h" />
 		<Unit filename="modeloParcial.cpp" />
 		<Unit filename="modeloParcial.h" />
+		<Unit filename="parcialLabII.cpp" />
+		<Unit filename="parcialLabII.h" />
 		<Unit filename="rlutil.h" />
 		<Unit filename="rutinas.cpp" />
 		<Unit filename="rutinas.h" />

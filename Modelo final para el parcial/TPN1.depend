@@ -819,7 +819,7 @@
 1600742332 c:\users\isi97\onedrive\escritorio\isidoro\facultad\2do cuatrimestre 2020\laboratorio ii\parcial-lab2\modelo final para el parcial\usuarios.h
 	"fechas.h"
 
-1600925156 c:\users\isi97\onedrive\escritorio\isidoro\facultad\2do cuatrimestre 2020\laboratorio ii\parcial-lab2\modelo final para el parcial\menus.h
+1600989265 c:\users\isi97\onedrive\escritorio\isidoro\facultad\2do cuatrimestre 2020\laboratorio ii\parcial-lab2\modelo final para el parcial\menus.h
 
 1600742332 c:\users\isi97\onedrive\escritorio\isidoro\facultad\2do cuatrimestre 2020\laboratorio ii\parcial-lab2\modelo final para el parcial\ui.h
 
@@ -839,7 +839,7 @@
 
 1600747843 c:\users\isi97\onedrive\escritorio\isidoro\facultad\2do cuatrimestre 2020\laboratorio ii\parcial-lab2\modelo final para el parcial\modeloparcial.h
 
-1600925282 source:c:\users\isi97\onedrive\escritorio\isidoro\facultad\2do cuatrimestre 2020\laboratorio ii\parcial-lab2\modelo final para el parcial\main.cpp
+1600989376 source:c:\users\isi97\onedrive\escritorio\isidoro\facultad\2do cuatrimestre 2020\laboratorio ii\parcial-lab2\modelo final para el parcial\main.cpp
 	<iostream>
 	<cstdio>
 	<stdlib.h>
@@ -856,8 +856,9 @@
 	"rlutil.h"
 	"modeloParcial.h"
 	"configuracion.h"
+	"parcialLabII.h"
 
-1600925275 source:c:\users\isi97\onedrive\escritorio\isidoro\facultad\2do cuatrimestre 2020\laboratorio ii\parcial-lab2\modelo final para el parcial\menus.cpp
+1600993935 source:c:\users\isi97\onedrive\escritorio\isidoro\facultad\2do cuatrimestre 2020\laboratorio ii\parcial-lab2\modelo final para el parcial\menus.cpp
 	<iostream>
 	<cstdio>
 	<stdlib.h>
@@ -874,8 +875,9 @@
 	"rlutil.h"
 	"modeloParcial.h"
 	"configuracion.h"
+	"parcialLabII.h"
 
-1600925290 source:c:\users\isi97\onedrive\escritorio\isidoro\facultad\2do cuatrimestre 2020\laboratorio ii\parcial-lab2\modelo final para el parcial\modeloparcial.cpp
+1600989356 source:c:\users\isi97\onedrive\escritorio\isidoro\facultad\2do cuatrimestre 2020\laboratorio ii\parcial-lab2\modelo final para el parcial\modeloparcial.cpp
 	<iostream>
 	<cstdio>
 	<stdlib.h>
@@ -892,8 +894,9 @@
 	"rlutil.h"
 	"modeloParcial.h"
 	"configuracion.h"
+	"parcialLabII.h"
 
-1600925270 source:c:\users\isi97\onedrive\escritorio\isidoro\facultad\2do cuatrimestre 2020\laboratorio ii\parcial-lab2\modelo final para el parcial\rutinas.cpp
+1600989369 source:c:\users\isi97\onedrive\escritorio\isidoro\facultad\2do cuatrimestre 2020\laboratorio ii\parcial-lab2\modelo final para el parcial\rutinas.cpp
 	<iostream>
 	<cstdio>
 	<stdlib.h>
@@ -910,6 +913,7 @@
 	"rlutil.h"
 	"modeloParcial.h"
 	"configuracion.h"
+	"parcialLabII.h"
 
 1600925322 source:c:\users\isi97\onedrive\escritorio\isidoro\facultad\2do cuatrimestre 2020\laboratorio ii\parcial-lab2\modelo final para el parcial\ui.cpp
 	<iostream>
@@ -917,7 +921,7 @@
 	"ui.h"
 	"rlutil.h"
 
-1600744418 source:c:\users\isi97\onedrive\escritorio\isidoro\facultad\2do cuatrimestre 2020\laboratorio ii\parcial-lab2\modelo final para el parcial\usuarios.cpp
+1600989384 source:c:\users\isi97\onedrive\escritorio\isidoro\facultad\2do cuatrimestre 2020\laboratorio ii\parcial-lab2\modelo final para el parcial\usuarios.cpp
 	<iostream>
 	<cstdio>
 	<stdlib.h>
@@ -933,8 +937,9 @@
 	"ui.h"
 	"rlutil.h"
 	"modeloParcial.h"
+	"parcialLabII.h"
 
-1600925261 source:c:\users\isi97\onedrive\escritorio\isidoro\facultad\2do cuatrimestre 2020\laboratorio ii\parcial-lab2\modelo final para el parcial\configuracion.cpp
+1600989373 source:c:\users\isi97\onedrive\escritorio\isidoro\facultad\2do cuatrimestre 2020\laboratorio ii\parcial-lab2\modelo final para el parcial\configuracion.cpp
 	<ctime>
 	<string.h>
 	<cstring>
@@ -948,6 +953,9 @@
 	"rlutil.h"
 	"modeloParcial.h"
 	"configuracion.h"
+	"parcialLabII.h"
 
 1600925079 c:\users\isi97\onedrive\escritorio\isidoro\facultad\2do cuatrimestre 2020\laboratorio ii\parcial-lab2\modelo final para el parcial\configuracion.h
+
+1600991189 c:\users\isi97\onedrive\escritorio\isidoro\facultad\2do cuatrimestre 2020\laboratorio ii\parcial-lab2\modelo final para el parcial\parciallabii.h
 
